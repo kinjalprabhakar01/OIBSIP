@@ -1,27 +1,66 @@
-# SoundAura - Premium Headphones Landing Page
+# 🌐 OIBSIP - Oasis Infobyte Web Development Internship
 
-A responsive landing page for a fictional headphones brand **SoundAura**, built using HTML and CSS.
+> Internship tasks completed as part of the Oasis Infobyte Web Development Program.
 
-## 📌 Task
-Oasis Infobyte Web Development Internship - Task 1
+---
 
-## 🛠️ Technologies Used
-- HTML5
-- CSS3 (Animations, Flexbox)
+## 🎧 Task 1 - SoundAura: Premium Headphones Landing Page
 
-## ✨ Features
-- Dark theme with gold accents
-- Sticky navbar
-- Hero section with product image
-- Features section with hover effects
-- Products section with 3 models
-- Customer reviews section
-- Responsive footer
+A sleek and modern **landing page** for a fictional premium headphones brand — SoundAura.
 
-## 🔗 Live Demo
-Coming soon...
+### ✨ Highlights
+- 🎯 Clean, minimal and responsive design
+- 🖥️ Fully built with pure HTML & CSS
+- 📱 Mobile-friendly layout
+- 🎨 Modern color scheme and typography
+- 🔗 Smooth navbar navigation
 
-## 📁 Files
-- `index.html` - Main HTML structure
-- `style.css` - Styling and animations
-- `headphone.jpg.avif` - Product image
+### 🛠️ Tech Stack
+
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+
+
+
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+
+
+---
+
+## 💼 Task 2 - Personal Portfolio Website
+
+A professional and elegant **portfolio website** for Kinjal Prabhakar showcasing her skills, projects and personality.
+
+### ✨ Highlights
+- 👩‍💻 About Me section
+- 🛠️ Skills showcase
+- 📂 Projects section
+- 📄 Resume download option
+- 📬 Contact section
+- 🌟 Smooth and elegant UI
+
+### 🛠️ Tech Stack
+
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+
+
+
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+
+
+---
+
+## 👩‍💻 Author
+
+**Kinjal Prabhakar**  
+🎓 Web Development Intern @ Oasis Infobyte  
+💡 Passionate about building beautiful web experiences
+
+---
+
+⭐ *If you like this work, don't forget to star the repository!*
