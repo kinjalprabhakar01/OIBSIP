@@ -42,7 +42,7 @@ A fully responsive **personal portfolio website** showcasing my skills, projects
 - Dark navy & sky blue theme (Syne + Inter fonts)
 - Fully responsive layout
 
-**Tech Stack:** HTML5 · CSS3 · JavaScript
+**Tech Stack:** HTML5 · CSS3
 
 📂 [View Code](./Task2-Portfolio)
 
