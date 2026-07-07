@@ -28,7 +28,7 @@ A sleek and modern **landing page** for a fictional premium headphones brand —
 
 **Tech Stack:** HTML5 · CSS3
 
-📂 [View Code](./Task1-Landing%20Page)
+📂 [View Code](https://github.com/kinjalprabhakar01/OIBSIP/tree/master/Task1-Landing%20Page)
 
 ---
 
@@ -44,7 +44,7 @@ A fully responsive **personal portfolio website** showcasing my skills, projects
 
 **Tech Stack:** HTML5 · CSS3
 
-📂 [View Code](./Task2-Portfolio)
+📂 [View Code](https://github.com/kinjalprabhakar01/OIBSIP/tree/master/Task2-Portfolio)
 
 ---
 
@@ -61,7 +61,7 @@ An elegant **temperature converter** that converts between Celsius, Fahrenheit a
 
 **Tech Stack:** HTML5 · CSS3 · JavaScript
 
-📂 [View Code](./Task3-Temperature-Converter)
+📂 [View Code](https://github.com/kinjalprabhakar01/OIBSIP/tree/master/Task3-Temperature-Converter)
 
 ---
 
