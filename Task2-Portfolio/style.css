@@ -166,6 +166,7 @@ body::after{
     width:350px;
     height:350px;
     object-fit:cover;
+    object-position: center 25%;
     border-radius:50%;
     border:5px solid #38bdf8;
 
