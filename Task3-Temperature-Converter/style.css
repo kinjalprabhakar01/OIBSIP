@@ -132,6 +132,7 @@ main {
   transition: border 0.3s, background 0.3s;
   font-size: 0.95rem;
   text-transform: capitalize;
+  min-width: 0;
   width: 100%;
   height: 44px;
 }
@@ -209,4 +210,16 @@ footer {
   font-size: 0.8rem;
   color: #475569;
   text-align: center;
+}
+
+@media (max-width: 480px) {
+  .card {
+    padding: 20px;
+  }
+  
+    .radio-option {
+      font-size: 0.8rem;
+      padding: 8px 6px;
+    
+  }
 }
